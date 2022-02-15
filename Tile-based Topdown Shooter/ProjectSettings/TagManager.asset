@@ -47,6 +47,15 @@ TagManager:
   - name: Foreground
     uniqueID: 2942976201
     locked: 0
+  - name: Decorations
+    uniqueID: 4223308833
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2624445075
+    locked: 0
+  - name: Utensils
+    uniqueID: 4233666543
+    locked: 0
   - name: Walls
     uniqueID: 2273522871
     locked: 0
